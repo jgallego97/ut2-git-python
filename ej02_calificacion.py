@@ -1,11 +1,7 @@
 num = float(input("Introduce tu calificación: "))
 
-if(num >= 0 and num < 5):
-    print("Insuficiente")
-elif(num >= 5 and num < 6):
-    print("Suficiente")
-elif(num >= 6 and num < 7):
-    print("Bien")
+if(num >= 0 and num < 7):
+    print("Aprobado")
 elif(num >= 7 and num < 9):
     print("Notable")
 elif(num >= 9 and num <= 10):
