@@ -11,5 +11,4 @@ elif nota < 7:
 elif nota < 9:
     calificacion = "Notable"
 else:
-    calificacion = "Sobresaliente"
-
+    print("Nota no válida")
