@@ -2,6 +2,8 @@
 
 Repositorio de prácticas de Git con los ejercicios propuestos de la UT2.
 Autor: Javier
+## Colaboradores
+- Ian Navarro Lopez
 
 ## Ejercicios
 
