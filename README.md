@@ -1,0 +1,22 @@
+# UT2 - Estructuras de control de python
+
+Repositorio de prácticas de Git con los ejercicios propuestos de la UT2.
+Autor: Javier
+## Colaboradores
+- Ian Navarro Lopez
+
+## Ejercicios
+
+| Fichero                   | Estructura de control |
+| ------------------------- | --------------------- |
+| ej01_par_impar.py         | if / else             |
+| ej02_calificacion.py      | if / elif / else      |
+| ej03_tabla_multiplicar.py | for                   |
+| ej04_adivina.py           | while + break         |
+| ej05_menu.py              | match-case            |
+| ej06_suma_pares.py        | for + continue        |
+| ej07_fizzbuzz.py | for + if/elif |
+| ej08_contrasena.py | while + else |
+
+# Notas
+Repositorio de prácticas de la UT2.
