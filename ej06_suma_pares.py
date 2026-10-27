@@ -1,7 +1,7 @@
 num = int(input("Introduce un numero: "))
 suma = 0
 for i in range(1, num+1):
-    if(ii % 2 == 0):
+    if(i % 2 == 0):
         suma += i
     else:
         continue
