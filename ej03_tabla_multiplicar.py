@@ -1,4 +1,4 @@
-num = int(input("Introduce un numero: "))
+num = in(input("Introduce un numero: "))
 
 for i in range(1, 11):
     print(f"{num} x {i} = {(num*i)}")
